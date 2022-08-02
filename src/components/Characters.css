@@ -1,0 +1,12 @@
+.suCard {
+    min-width: 15rem;
+    overflow: hidden;
+}
+
+p {
+    font-size:0.75rem;
+}
+img:hover{
+    border:2px solid #7e7e7e;
+    border-radius: 3px;
+}
